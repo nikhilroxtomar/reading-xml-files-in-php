@@ -1,0 +1,16 @@
+<school>
+	<student>
+		<name>Jackie</name>
+		<age> 15 </age>
+	</student>
+
+	<student>
+		<name>Dyna</name>
+		<age> 14 </age>
+	</student>
+
+	<student>
+		<name>Tony</name>
+		<age> 16 </age>
+	</student>
+</school>
